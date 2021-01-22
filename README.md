@@ -8,7 +8,7 @@ footballer. The game would not only mention the footballers
 sports career, every match he has played, his training plan,
 blablabla (as we have experienced too many times in FIFA and
 PES), but also his personal life, his relationship to his 
-teammates and coaches, his negotiations with senior the and 
+teammates and coaches, his negotiations with the senior and 
 sponsors, his sh*t words posting to rivals, and,well, his 
 romantic story. The idea is inspired by the game *New Star 
 Soccer*.
