@@ -16,7 +16,7 @@ Soccer*.
 ## Technical Note
 We haven't decide which tool to build up the project yet. 
 Anyway, we perfer using a free, open-source game engine to 
-make to game.
+make the game.
 
 ## Progress of works
 Now we are trying to build up a basic frame of the match 
